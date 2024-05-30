@@ -1,0 +1,5 @@
+species_taxid;species_name;number_of_samples;oversampled_core;oversampled_presabs;oversampled_presabs_raxml
+9;Buchnera aphidicola;72;13;2;2
+985002;Staphylococcus argenteus;18;10;0;0
+1492;Clostridium butyricum;18;5;1;1
+803;Bartonella quintana;11;5;0;0
