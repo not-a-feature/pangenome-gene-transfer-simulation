@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="740"
+   version="1.1"
+   id="svg215"
+   sodipodi:docname="985002.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <defs
+     id="defs219" />
+  <sodipodi:namedview
+     id="namedview217"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.87151515"
+     inkscape:cx="400.45202"
+     inkscape:cy="413.07371"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g201" />
+  <xhtml:style
+     type="text/css">.d3arg { position: relative; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: white; padding: 20px 20px 60px; }.d3arg:hover .dashboard { visibility: visible; }.dashboard { display: flex; visibility: hidden; }.dashboard .dashbutton { position: relative; font-size: 30px; border: 0px; background-color: white; width: 30px; height: 30px; }.dashboard .dashbutton .tip { width: 120px; font-size: 12px; background-color: lightgrey; color: rgb(5, 62, 78); text-align: center; padding: 5px 0px; position: absolute; z-index: 1; top: 100%; left: 50%; margin-left: -60px; visibility: hidden; }.dashboard .dashbutton:hover .desc { visibility: visible; }.dashboard path { fill: grey; }.dashboard .dashbutton:hover path { fill: rgb(5, 62, 78); }.dashboard .activecolor:active path { fill: rgb(30, 235, 177); }.savemethods { display: flex; justify-content: center; align-items: center; flex-flow: wrap; }.savemethods button { background-color: lightgrey; color: rgb(5, 62, 78); font-size: 12px; width: auto; border: medium; }.savemethods button:hover { color: rgb(30, 235, 177); }.yaxis path { stroke: rgb(5, 62, 78); stroke-width: 3px; }.yaxis line { stroke: rgb(5, 62, 78); stroke-width: 3px; }.yaxis text { fill: rgb(5, 62, 78); }.hiddennode { fill: lightgrey; stroke: lightgrey; stroke-width: 4px; }.underlink { stroke: rgb(255, 255, 255); stroke-width: 12px; fill: none; }.link { stroke-width: 4px; fill: none; }.hiddenlink { stroke: lightgrey; stroke-width: 4px; fill: none; }.labels { text-anchor: middle; }.label { fill: rgb(5, 62, 78); font-family: Arial; font-size: 12px; }.hiddenlabel { fill: lightgrey; font-family: Arial; font-size: 12px; }svg { display: block; }button { display: block; cursor: pointer; }.saving { display: flex; flex-direction: row; }.saving .message { display: none; }</xhtml:style>
+  <g
+     class="yaxis"
+     transform="translate(5)"
+     fill="none"
+     font-size="10px"
+     font-family="sans-serif"
+     text-anchor="start"
+     id="g64">
+    <path
+       class="domain"
+       stroke="currentColor"
+       d="M 6,700 H 0 V 50 h 6"
+       id="path2" />
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,700)"
+       id="g8">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line4"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text6"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,627.37931)"
+       id="g14">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line10"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text12"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.0474</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,554.75862)"
+       id="g20">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line16"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text18"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.0947</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,483.03448)"
+       id="g26">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line22"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text24"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.1421</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,410.41379)"
+       id="g32">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line28"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text30"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.1894</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,338.68966)"
+       id="g38">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line34"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text36"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.2368</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,266.06897)"
+       id="g44">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line40"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text42"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.2841</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,194.34483)"
+       id="g50">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line46"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text48"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.3315</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,121.72414)"
+       id="g56">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line52"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text54"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.3788</text>
+    </g>
+    <g
+       class="tick"
+       opacity="1"
+       transform="translate(0,50)"
+       id="g62">
+      <line
+         stroke="currentColor"
+         x2="6"
+         id="line58"
+         x1="0"
+         y1="0"
+         y2="0" />
+      <text
+         fill="currentColor"
+         x="9"
+         dy="0.31999999em"
+         id="text60"
+         style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0.4262</text>
+    </g>
+  </g>
+  <g
+     class="links"
+     id="g122">
+    <g
+       bounds="0.0-100.0"
+       id="g68">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tLb0"
+         d="M 200.785,131.052 100,700"
+         id="path66" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g72">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tLb0"
+         d="M 243.996,692.74 192.857,700"
+         id="path70" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g76">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 243.996,692.74 285.714,700"
+         id="path74" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g80">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="fLb0"
+         d="M 395.601,203.959 378.571,700"
+         id="path78" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g84">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tLb0"
+         d="M 526.705,693.655 471.429,700"
+         id="path82" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g88">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tRb0"
+         d="M 526.705,693.655 564.286,700"
+         id="path86" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g92">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tLb0"
+         d="M 707.284,694.936 657.143,700"
+         id="path90" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g96">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tRb0"
+         d="M 707.284,694.936 750,700"
+         id="path94" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g100">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 546.281,287.13 707.284,694.936"
+         id="path98" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g104">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="fLb0"
+         d="M 546.281,287.13 526.705,693.655"
+         id="path102" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g108">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tRb0"
+         d="M 200.785,131.052 243.996,692.74"
+         id="path106" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g112">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tRb0"
+         d="m 395.601,203.959 150.68,83.171"
+         id="path110" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g116">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tRb0"
+         d="m 296.5,50 99.101,153.959"
+         id="path114" />
+    </g>
+    <g
+       bounds="0.0-100.0"
+       id="g120">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke-width:8px"
+         path_type="tLb0"
+         d="m 296.5,50 -95.715,81.052"
+         id="path118" />
+    </g>
+  </g>
+  <g
+     class="nodes"
+     id="g169">
+    <g
+       id="g125">
+      <path
+         transform="translate(100,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node0"
+         class="node flag1"
+         parents="13"
+         children=""
+         cx="100"
+         cy="700" />
+    </g>
+    <g
+       id="g128">
+      <path
+         transform="translate(192.85714,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node1"
+         class="node flag1"
+         parents="10"
+         children=""
+         cx="192.85714285714286"
+         cy="700" />
+    </g>
+    <g
+       id="g131">
+      <path
+         transform="translate(285.71429,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node2"
+         class="node flag1"
+         parents="10"
+         children=""
+         cx="285.7142857142857"
+         cy="700" />
+    </g>
+    <g
+       id="g134">
+      <path
+         transform="translate(378.57143,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node3"
+         class="node flag1"
+         parents="12"
+         children=""
+         cx="378.57142857142856"
+         cy="700" />
+    </g>
+    <g
+       id="g137">
+      <path
+         transform="translate(471.42857,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node4"
+         class="node flag1"
+         parents="9"
+         children=""
+         cx="471.42857142857144"
+         cy="700" />
+    </g>
+    <g
+       id="g140">
+      <path
+         transform="translate(564.28571,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node5"
+         class="node flag1"
+         parents="9"
+         children=""
+         cx="564.2857142857143"
+         cy="700" />
+    </g>
+    <g
+       id="g143">
+      <path
+         transform="translate(657.14286,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node6"
+         class="node flag1"
+         parents="8"
+         children=""
+         cx="657.1428571428571"
+         cy="700" />
+    </g>
+    <g
+       id="g146">
+      <path
+         transform="translate(750,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node7"
+         class="node flag1"
+         parents="8"
+         children=""
+         cx="750"
+         cy="700" />
+    </g>
+    <g
+       id="g149">
+      <path
+         transform="translate(707.28431,694.93616)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node8"
+         class="node flag0"
+         parents="11"
+         children="6 7"
+         cx="707.2843097682943"
+         cy="694.9361590732082" />
+    </g>
+    <g
+       id="g152">
+      <path
+         transform="translate(526.70482,693.65495)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node9"
+         class="node flag0"
+         parents="11"
+         children="4 5"
+         cx="526.7048197561929"
+         cy="693.6549501676612" />
+    </g>
+    <g
+       id="g155">
+      <path
+         transform="translate(243.9957,692.7398)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node10"
+         class="node flag0"
+         parents="13"
+         children="1 2"
+         cx="243.9957015342"
+         cy="692.7398009494134" />
+    </g>
+    <g
+       id="g158">
+      <path
+         transform="translate(546.28093,287.13041)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node11"
+         class="node flag0"
+         parents="12"
+         children="8 9"
+         cx="546.2809309379802"
+         cy="287.1304149349912" />
+    </g>
+    <g
+       id="g161">
+      <path
+         transform="translate(395.60147,203.9586)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node12"
+         class="node flag0"
+         parents="14"
+         children="3 11"
+         cx="395.60146536614303"
+         cy="203.95860348323157" />
+    </g>
+    <g
+       id="g164">
+      <path
+         transform="translate(200.78525,131.05172)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node13"
+         class="node flag0"
+         parents="14"
+         children="0 10"
+         cx="200.78525326723684"
+         cy="131.05171576281876" />
+    </g>
+    <g
+       id="g167">
+      <path
+         transform="translate(296.50042,50)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="9810389779_node14"
+         class="node flag0"
+         parents=""
+         children="12 13"
+         cx="296.5004240772827"
+         cy="50" />
+    </g>
+  </g>
+  <g
+     class="labels"
+     id="g201">
+    <text
+       class="label"
+       x="100"
+       text-anchor="middle"
+       y="725"
+       id="text171"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">0</text>
+    <text
+       class="label"
+       x="192.85715"
+       text-anchor="middle"
+       y="725"
+       id="text173"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</text>
+    <text
+       class="label"
+       x="285.71429"
+       text-anchor="middle"
+       y="725"
+       id="text175"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</text>
+    <text
+       class="label"
+       x="378.57144"
+       text-anchor="middle"
+       y="725"
+       id="text177"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       class="label"
+       x="471.42856"
+       text-anchor="middle"
+       y="725"
+       id="text179"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       class="label"
+       x="564.28571"
+       text-anchor="middle"
+       y="725"
+       id="text181"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</text>
+    <text
+       class="label"
+       x="657.14288"
+       text-anchor="middle"
+       y="725"
+       id="text183"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</text>
+    <text
+       class="label"
+       x="750"
+       text-anchor="middle"
+       y="725"
+       id="text185"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
+    <text
+       class="label"
+       x="722.2843"
+       text-anchor="start"
+       y="679.93616"
+       id="text187"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">8</text>
+    <text
+       class="label"
+       x="511.70483"
+       text-anchor="end"
+       y="678.65497"
+       id="text189"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       class="label"
+       x="258.9957"
+       text-anchor="start"
+       y="677.73981"
+       id="text191"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">10</text>
+    <text
+       class="label"
+       x="561.28094"
+       text-anchor="start"
+       y="272.1304"
+       id="text193"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">11</text>
+    <text
+       class="label"
+       x="410.60147"
+       text-anchor="start"
+       y="188.9586"
+       id="text195"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">12</text>
+    <text
+       class="label"
+       x="185.78525"
+       text-anchor="end"
+       y="116.05171"
+       id="text197"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">13</text>
+    <text
+       class="label"
+       x="296.50043"
+       text-anchor="middle"
+       y="35"
+       id="text199"
+       style="-inkscape-font-specification:'Bahnschrift, Normal';font-family:Bahnschrift;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:17.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">14</text>
+  </g>
+</svg>
