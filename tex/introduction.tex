@@ -1,0 +1,30 @@
+% !TeX spellcheck = en_GB
+\chapter{Introduction}\label{kap:introduction}
+The genetic profile of a population does not only just describe its characteristics,
+it also provides insights into its hereditary and evolutionary history.
+In eukaryotes, including humans, the evolutionary histories of genes are largely intertwined due to recombination and sexual reproduction.
+This contrasts with prokaryotic populations, where genes often follow a dominant clonal lineage \cite{Human_Popgen_Lohmueller_2021}.
+However, \ac{HGT} can disrupt this pattern by allowing genes to move between lineages and individuals, introducing genetic variation \cite{Gen_Molekbio_Schmidt_2023}.
+
+The \ac{GFS}, which describes the number of genes observed in $k$ individuals within a population, reflects these evolutionary effects.
+Under conditions of clonal inheritance, the \ac{GFS} responds to the underlying tree structure, in which genes are passed on to descendants and thus accumulate within a subtree \cite{Baumdicker_2014}.
+Deviations between the observed \ac{GFS} and the \ac{GFS} expected under a neutral clonal model may indicate evolutionary processes beyond simple mutations, indicating possible \ac{HGT}.
+Understanding the dynamics of \ac{HGT} is usefull for several reasons.
+Firstly, it improves our understanding of microbial evolution, including the role lateral gene flow plays in achieving genetic diversity.
+Unlike the slow, gradual accumulation of mutations in a purely clonal model, \ac{HGT} can introduce substantial genetic changes in a short time frame, accelerating adaptation and evolution.
+Secondly, horizontal gene transfer has profound implications for public health, particularly with regard to antibiotic resistance.
+Resistance-conferring genes can spread rapidly through bacterial populations via \ac{HGT}, undermining treatment efforts and leading to the emergence of multi-drug resistant strains \cite{HGT_Burmeister_2015}.
+
+Methodologically, integrating \ac{HGT} into existing models of genetic evolution improves their accuracy and predictive power.
+Traditional models based on clonal inheritance often fail to capture the complexity of microbial evolution.
+
+This thesis provides a comprehensive biological and mathematical background for all concepts used and
+extends the open source software \textit{msprime} and \textit{tskit} \cite{Msprime_Baumdicker_2022}.
+Specifically, the mutation model of \textit{msprime} is extended by introducing a computational approach of the infinite gene model \cite{Baumdicker_2014} through a gene gain and loss model.
+This model allows the simulation of neutral evolution.
+Using this model, a neutrality test is developed to determine whether the gene frequency spectrum results from neutral evolutionary processes.
+Furthermore, the ancestry and mutation simulation is extended by the introduction of horizontal gene transfer events and a tree fixation mechanism.
+The fixation allows the simulation of gene conversion, recombination and \ac{HGT} while maintaining a given tree structure as a backbone.
+With that, the effect of gene conversion and \ac{HGT} on the \ac{GFS} is assessed.
+Finally, we estimate the strength of \ac{HGT} by recording simulation parameters across different bacterial species which minimises the error between the simulated and real Gene Frequency Spectrum.
+This analysis uses pangenome data from the NCBI, allowing for a detailed comparison between simulated results and observed genetic patterns.

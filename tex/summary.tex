@@ -1,0 +1,27 @@
+% !TeX spellcheck = en_GB
+\chapter{Summary}
+This thesis investigates the dynamics of Horizontal Gene Transfer (HGT) in bacterial populations, with a particular focus on the effects on the Gene Grequency Spectrum (GFS).
+Traditional simulation models of genetic evolution based on clonal inheritance often overlook the effects of lateral gene flow introduced by HGT.
+This research aims to integrate HGT into existing models to improve their accuracy and predictive power.
+
+The mutation model of \textit{msprime} was extended by incorporating the concept of gene gain and loss based on the Infinitely Many Genes (IMG) model.
+By moving the double gene gain mutation to unused sites, the problem of having a finite number of sites that would conflict with the IMG was mitigated.
+This extension of \textit{msprime} allowed the simulation of gene frequency spectra and the development of a neutrality test to assess whether a GFS results from a neutral evolutionary process.
+
+Ancestry and mutation simulation was further improved by introducing mechanisms for tree fixation and HGT.
+This adaptation involved modifying the built-in ancestry simulation to create a new single-gene lineage for each HGT event, and adjusting the mutation algorithm to correctly place mutations while accounting for the potential influence of HGT.
+This allowed the effects of HGT on the GFS to be studied.
+
+The model was applied to real-world pangenome data from NCBI. Parameters were optimised using Simplicial Homology Global Optimisation (SHGO) and Differential Evolution (DE) to achieve a good fit between simulated and observed genetic patterns.
+This was mostly achieved.
+
+The extended \textit{msprime} and \textit{tskit} tools provide a robust framework for simulating and analysing genetic evolution, leading to more accurate predictions of evolutionary outcomes.
+The results highlight the important role of HGT in microbial evolution and show that genetic uniformity can be rapidly introduced by lateral gene flow.
+
+However, the model has two important limitations: it assumes constant rates of gene gain and loss, which may not reflect temporal variation, and the interaction between gene conversion and HGT increases the number of lineages, resulting in an infeasible runtime for large-scale simulations.
+In addition, the pure Python implementation is not suitable for large-scale parameter estimation and simulation.
+
+Future research should explore more dynamic models that account for varying rates of gene gain and loss over time, and provide a C implementation with an improved method for simulating gene conversion and HGT simultaneously.
+This would allow the model to be fully integrated into \textit{msprime}.
+
+This work has provided a framework for simulating the impact of HGT on genetic diversity in bacterial populations.
