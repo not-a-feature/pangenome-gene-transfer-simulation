@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="667.88196"
+   height="776.64069"
+   id="main_svg"
+   version="1.1"
+   sodipodi:docname="base_tree.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <defs
+     id="defs71" />
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1769698"
+     inkscape:cx="248.28089"
+     inkscape:cy="550.76556"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g75" />
+  <xhtml:style
+     type="text/css">.d3arg { position: relative; display: flex; flex-direction: column; justify-content: center; align-items: center; background-color: white; padding: 20px 20px 60px; }.d3arg:hover .dashboard { visibility: visible; }.dashboard { display: flex; visibility: hidden; }.dashboard button { position: relative; font-size: 30px; border: 0px; background-color: white; width: 30px; height: 30px; }.dashboard button .tip { width: 120px; font-size: 12px; background-color: lightgrey; color: rgb(5, 62, 78); text-align: center; padding: 5px 0px; position: absolute; z-index: 1; top: 100%; left: 50%; margin-left: -60px; visibility: hidden; }.dashboard button:hover .desc { visibility: visible; }.dashboard path { fill: grey; }.dashboard button:hover path { fill: rgb(5, 62, 78); }.dashboard button:active path { fill: rgb(30, 235, 177); }.yaxis path { stroke: rgb(5, 62, 78); stroke-width: 3px; }.yaxis line { stroke: rgb(5, 62, 78); stroke-width: 3px; }.yaxis text { fill: rgb(5, 62, 78); }.node { fill: rgb(30, 235, 177); stroke: rgb(5, 62, 78); stroke-width: 4px; }.hiddennode { fill: lightgrey; stroke: lightgrey; stroke-width: 4px; }.underlink { stroke: rgb(255, 255, 255); stroke-width: 12px; fill: none; }.link { stroke: rgb(5, 62, 78); stroke-width: 4px; fill: none; }.hiddenlink { stroke: lightgrey; stroke-width: 4px; fill: none; }.labels { text-anchor: middle; }.label { fill: rgb(5, 62, 78); font-family: Arial; font-size: 12px; }.hiddenlabel { fill: lightgrey; font-family: Arial; font-size: 12px; }svg { display: block; }button { display: block; cursor: pointer; }.saving { display: flex; flex-direction: row; }.saving .message { display: none; }</xhtml:style>
+  <g
+     class="links"
+     id="g30"
+     transform="translate(-91.09,-26.076172)">
+    <g
+       bounds="0.0-1000.0"
+       id="g12">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 138.158,652.101 100,700"
+         id="path11" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g13">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 138.158,652.101 172.222,700"
+         id="path12" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g14">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 280.629,652.101 244.444,700"
+         id="path13" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g15">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 280.629,652.101 316.667,700"
+         id="path14" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g16">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 428.332,652.101 388.889,700"
+         id="path15" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g17">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 428.332,652.101 461.111,700"
+         id="path16" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g18">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 571.882,652.101 533.333,700"
+         id="path17" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g19">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 571.882,652.101 605.556,700"
+         id="path18" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g20">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 715.833,652.101 677.778,700"
+         id="path19" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g21">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 715.833,652.101 750,700"
+         id="path20" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g22">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="m 208.429,604.203 -70.271,47.898"
+         id="path21" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g23">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="m 208.429,604.203 72.2,47.898"
+         id="path22" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g24">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="m 501.575,604.203 -73.243,47.898"
+         id="path23" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g25">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="m 501.575,604.203 70.307,47.898"
+         id="path24" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g26">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 529.659,50 715.833,652.101"
+         id="path25" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g27">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 370.001,161.01517 208.429,604.203"
+         id="path26"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g28">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tRb0"
+         d="M 370.001,161.01517 501.575,604.203"
+         id="path27"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       bounds="0.0-1000.0"
+       id="g29">
+      <path
+         class="link"
+         stroke="#053e4e"
+         style="stroke:#053e4e;stroke-width:8px"
+         path_type="tLb0"
+         d="M 529.659,50 370.001,161.01517"
+         id="path28"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     class="nodes"
+     id="g50"
+     transform="translate(-91.09,-26.076172)">
+    <g
+       id="g31">
+      <path
+         transform="translate(100,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node0"
+         class="node flag1"
+         parents="10"
+         children=""
+         cx="100"
+         cy="700" />
+    </g>
+    <g
+       id="g32">
+      <path
+         transform="translate(172.22222,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node1"
+         class="node flag1"
+         parents="10"
+         children=""
+         cx="172.22222222222223"
+         cy="700" />
+    </g>
+    <g
+       id="g33">
+      <path
+         transform="translate(244.44444,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node2"
+         class="node flag1"
+         parents="11"
+         children=""
+         cx="244.44444444444446"
+         cy="700" />
+    </g>
+    <g
+       id="g34">
+      <path
+         transform="translate(316.66667,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node3"
+         class="node flag1"
+         parents="11"
+         children=""
+         cx="316.6666666666667"
+         cy="700" />
+    </g>
+    <g
+       id="g35">
+      <path
+         transform="translate(388.88889,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node4"
+         class="node flag1"
+         parents="12"
+         children=""
+         cx="388.8888888888889"
+         cy="700" />
+    </g>
+    <g
+       id="g36">
+      <path
+         transform="translate(461.11111,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node5"
+         class="node flag1"
+         parents="12"
+         children=""
+         cx="461.11111111111114"
+         cy="700" />
+    </g>
+    <g
+       id="g37">
+      <path
+         transform="translate(533.33333,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node6"
+         class="node flag1"
+         parents="13"
+         children=""
+         cx="533.3333333333334"
+         cy="700" />
+    </g>
+    <g
+       id="g38">
+      <path
+         transform="translate(605.55556,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node7"
+         class="node flag1"
+         parents="13"
+         children=""
+         cx="605.5555555555557"
+         cy="700" />
+    </g>
+    <g
+       id="g39">
+      <path
+         transform="translate(677.77778,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node8"
+         class="node flag1"
+         parents="14"
+         children=""
+         cx="677.7777777777778"
+         cy="700" />
+    </g>
+    <g
+       id="g40">
+      <path
+         transform="translate(750,700)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node9"
+         class="node flag1"
+         parents="14"
+         children=""
+         cx="750"
+         cy="700" />
+    </g>
+    <g
+       id="g41">
+      <path
+         transform="translate(138.1581,652.10149)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node10"
+         class="node flag0"
+         parents="15"
+         children="0 1"
+         cx="138.15809554260682"
+         cy="652.1014902532703" />
+    </g>
+    <g
+       id="g42">
+      <path
+         transform="translate(280.62932,652.10149)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node11"
+         class="node flag0"
+         parents="15"
+         children="2 3"
+         cx="280.6293168858898"
+         cy="652.1014902532703" />
+    </g>
+    <g
+       id="g43">
+      <path
+         transform="translate(428.33211,652.10149)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node12"
+         class="node flag0"
+         parents="16"
+         children="4 5"
+         cx="428.3321111785082"
+         cy="652.1014902532703" />
+    </g>
+    <g
+       id="g44">
+      <path
+         transform="translate(571.88159,652.10149)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node13"
+         class="node flag0"
+         parents="16"
+         children="6 7"
+         cx="571.8815877665993"
+         cy="652.1014902532703" />
+    </g>
+    <g
+       id="g45">
+      <path
+         transform="translate(715.833,652.10149)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node14"
+         class="node flag0"
+         parents="18"
+         children="8 9"
+         cx="715.8330035475735"
+         cy="652.1014902532703" />
+    </g>
+    <g
+       id="g46">
+      <path
+         transform="translate(208.42885,604.20298)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node15"
+         class="node flag0"
+         parents="17"
+         children="10 11"
+         cx="208.42885226319686"
+         cy="604.2029805065407" />
+    </g>
+    <g
+       id="g47">
+      <path
+         transform="translate(501.57528,604.20298)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node16"
+         class="node flag0"
+         parents="17"
+         children="12 13"
+         cx="501.57528014261976"
+         cy="604.2029805065407" />
+    </g>
+    <g
+       id="g48"
+       transform="translate(0,-59.999731)">
+      <path
+         transform="translate(370.00085,221.0149)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node17"
+         class="node flag0"
+         parents="18"
+         children="15 16"
+         cx="370.0008498884345"
+         cy="221.01490253270345" />
+    </g>
+    <g
+       id="g49">
+      <path
+         transform="translate(529.65933,50)"
+         d="M 6.91,0 A 6.91,6.91 0 1 1 -6.91,0 6.91,6.91 0 1 1 6.91,0"
+         fill="#1eebb1"
+         stroke="#053e4e"
+         stroke-width="4"
+         id="1071985793_node18"
+         class="node flag0"
+         parents=""
+         children="14 17"
+         cx="529.6593277444998"
+         cy="50" />
+    </g>
+  </g>
+  <g
+     class="labels"
+     id="g68"
+     transform="translate(-91.09,-26.076172)">
+    <text
+       class="label"
+       x="100"
+       text-anchor="middle"
+       y="725"
+       id="text50">0</text>
+    <text
+       class="label"
+       x="172.22223"
+       text-anchor="middle"
+       y="725"
+       id="text51">1</text>
+    <text
+       class="label"
+       x="244.44444"
+       text-anchor="middle"
+       y="725"
+       id="text52">2</text>
+    <text
+       class="label"
+       x="316.66666"
+       text-anchor="middle"
+       y="725"
+       id="text53">3</text>
+    <text
+       class="label"
+       x="388.88889"
+       text-anchor="middle"
+       y="725"
+       id="text54">4</text>
+    <text
+       class="label"
+       x="461.11111"
+       text-anchor="middle"
+       y="725"
+       id="text55">5</text>
+    <text
+       class="label"
+       x="533.33331"
+       text-anchor="middle"
+       y="725"
+       id="text56">6</text>
+    <text
+       class="label"
+       x="605.55554"
+       text-anchor="middle"
+       y="725"
+       id="text57">7</text>
+    <text
+       class="label"
+       x="677.77777"
+       text-anchor="middle"
+       y="725"
+       id="text58">8</text>
+    <text
+       class="label"
+       x="750"
+       text-anchor="middle"
+       y="725"
+       id="text59">9</text>
+    <text
+       class="label"
+       x="123.1581"
+       text-anchor="end"
+       y="637.1015"
+       id="text60">10</text>
+    <text
+       class="label"
+       x="295.6293"
+       text-anchor="start"
+       y="637.1015"
+       id="text61">11</text>
+    <text
+       class="label"
+       x="413.33212"
+       text-anchor="end"
+       y="637.1015"
+       id="text62">12</text>
+    <text
+       class="label"
+       x="586.88159"
+       text-anchor="start"
+       y="637.1015"
+       id="text63">13</text>
+    <text
+       class="label"
+       x="730.83301"
+       text-anchor="start"
+       y="637.1015"
+       id="text64">14</text>
+    <text
+       class="label"
+       x="193.42885"
+       text-anchor="end"
+       y="589.203"
+       id="text65">15</text>
+    <text
+       class="label"
+       x="516.57526"
+       text-anchor="start"
+       y="589.203"
+       id="text66">16</text>
+    <text
+       class="label"
+       x="377.19324"
+       text-anchor="end"
+       y="145.43739"
+       id="text67">17</text>
+    <text
+       class="label"
+       x="529.6593"
+       text-anchor="middle"
+       y="35"
+       id="text68">18</text>
+    <g
+       class="breakpoints"
+       id="g75"
+       transform="translate(40.124267,-1.3827515)">
+      <rect
+         start="0"
+         x="50.965733"
+         y="764.09961"
+         width="667.88196"
+         height="40"
+         stroke="#ffffff"
+         stroke-width="0.89475"
+         fill="#053e4e"
+         style="fill:#053e4e;stroke-width:0;stroke-dasharray:none"
+         stop="303"
+         id="rect73" />
+    </g>
+  </g>
+</svg>
