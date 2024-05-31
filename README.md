@@ -51,8 +51,6 @@ The repository is structured as follows:
 ## License and Notes
 Unless otherwise labelled this piece of software is published unter the GNU General Public License v3.0.
 
-TLDR:
-
 | Permissions      | Conditions                   | Limitations |
 | ---------------- | ---------------------------- | ----------- |
 | ✓ Commercial use | Disclose source              | ✕ Liability |
@@ -63,7 +61,8 @@ TLDR:
 
 Go to [LICENSE.md](https://github.com/not-a-feature/pangenome-gene-transfer-simulation/blob/main/LICENSE) to see the full version.
 
-The logo is partially based on the output of (tskit_arg_visualizer)[https://github.com/kitchensjn/tskit_arg_visualizer]
+## Logo
+The logo is partially based on the output of [tskit_arg_visualizer](https://github.com/kitchensjn/tskit_arg_visualizer).
 
 [^1]: https://tskit.dev/software/msprime.html
 [^2]: Franz Baumdicker et al. "Efficient ancestry and mutation simulation with msprime 1.0".
