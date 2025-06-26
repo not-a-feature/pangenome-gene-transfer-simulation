@@ -9,6 +9,7 @@
 > [!NOTE]
 > - Master Thesis Bioinformatics at the University of Tübingen
 > - Thesis period: 01.12.2023 - 01.06.2024
+> - DOI: [10.13140/RG.2.2.13490.52165](http://dx.doi.org/10.13140/RG.2.2.13490.52165)
 
 Horizontal gene transfer (HGT) plays a significant role in shaping the genetic landscape of bacterial populations.
 In contrast to the more common vertical gene transfer, horizontal gene transfer allows the lateral exchange of genes.
