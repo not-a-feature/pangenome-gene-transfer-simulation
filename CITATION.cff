@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kreuer"
+  given-names: "Jules"
+  orcid: "https://orcid.org/0000-0002-7305-833X"
+title: "Simulating and estimating the effect of gene transfer on bacterial pangenomes."
+version: 1.0.0
+doi: 10.13140/RG.2.2.13490.52165
+date-released: 2024-06-01
+url: "https://github.com/not-a-feature/pangenome-gene-transfer-simulation"
